@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samyuktha Anand</h1>
 <h3 align="center">An AI/ML Enthusiast and a passionate developer.</h3>
 
-- 🌱 I’m currently learning **DSA in Java.**
+- 🌱 I’m currently learning **DSA in C++.**
 
 - 👯 I’m looking to collaborate on **Machine Learning Porjects.**
 
