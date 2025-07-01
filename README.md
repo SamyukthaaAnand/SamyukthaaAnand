@@ -18,4 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyukthaaanand&show_icons=true&locale=en" alt="samyukthaaanand" /></p>
 
-<p><img src="https://streak-stats.demolab.com/?user=samyukthaaanand" alt="GitHub Streak"/></p>
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=samyukthaaanand&theme=default" alt="GitHub Streak" />
+</p>
