@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samyuktha Anand</h1>
-<h3 align="center">A Data Science Enthusiast and a passionate developer.</h3>
+<h1 align="center">👋 Hi, I'm Samyuktha Anand</h1>
+<h3 align="center">An ML enthusiast and a passionate developer.</h3>
 
 - 👯 I’m looking to collaborate on **Machine Learning Porjects.**
 
