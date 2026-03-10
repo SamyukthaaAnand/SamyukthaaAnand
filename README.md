@@ -6,16 +6,16 @@
 - 📫 Reach me @ **samyuktha1674@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/samyukthaanand" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samyukthaanand" height="30" width="40" />
-</a>
+<a href="https://www.linkedin.com/in/samyukthaaanand/" target="_blank">LinkedIn <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"/></a> |
+<a href="https://github.com/SamyukthaaAnand" target="_blank">GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20"/></a> |
+<a href="https://leetcode.com/duckfaceassassin/" target="_blank">LeetCode <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="20" height="20"/></a> |
+<a href="https://www.geeksforgeeks.org/profile/samyuktha16" target="_blank">GeeksforGeeks <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="27.5" height="27.5"/></a>
+</p>
 
-<a href="https://auth.geeksforgeeks.org/user/samyuktha16" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="samyuktha16" height="40" width="40" />
-</a>
+<h3 align="left">LeetCode Stats:</h3>
 
-<a href="https://leetcode.com/samyuktha16/" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="samyuktha16" height="40" width="40" />
-</a>
+<p align="left">
+<img src="https://leetcard.jacoblin.cool/samyuktha16?theme=light&font=baloo&ext=contest"/>
 </p>
