@@ -13,9 +13,3 @@
 <a href="https://leetcode.com/duckfaceassassin/" target="_blank">LeetCode <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="20" height="20"/></a> |
 <a href="https://www.geeksforgeeks.org/profile/samyuktha16" target="_blank">GeeksforGeeks <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="27.5" height="27.5"/></a>
 </p>
-
-<h3 align="left">LeetCode Stats:</h3>
-
-<p align="left">
-<img src="https://leetcard.jacoblin.cool/samyuktha16?theme=light&font=baloo&ext=contest"/>
-</p>
