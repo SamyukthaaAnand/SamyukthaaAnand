@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Samyuktha Anand</h1>
 <h3 align="center">An ML enthusiast and a passionate developer.</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamyukthaaAnand&color=blueviolet&style=flat-square&label=Profile+Views"/>
+</p>
+
 - 👯 I'm looking to collaborate on **Machine Learning Projects.**
 - 📫 Reach me @ **samyuktha1674@gmail.com**
 
